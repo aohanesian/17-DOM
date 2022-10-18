@@ -1,0 +1,11 @@
+body {
+    background-color: dimgrey;
+}
+.last {
+    background: green;
+    transition: background 2000ms linear;
+}
+.first {
+    background: red;
+    transition: background 2000ms linear;
+}
